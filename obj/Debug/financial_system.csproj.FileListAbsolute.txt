@@ -1,0 +1,439 @@
+F:\financial_system_project\financial_system\bin\Debug\Expenses_DB.mdf
+F:\financial_system_project\financial_system\bin\Debug\Expenses_DB_log.ldf
+F:\financial_system_project\financial_system\bin\Debug\FinancialProjectDatabase.mdf
+F:\financial_system_project\financial_system\bin\Debug\FinancialProjectDatabase_log.ldf
+F:\financial_system_project\financial_system\bin\Debug\ProjectPlaceDataBase.mdf
+F:\financial_system_project\financial_system\bin\Debug\ProjectPlaceDataBase_log.ldf
+F:\financial_system_project\financial_system\bin\Debug\financial_system.exe.config
+F:\financial_system_project\financial_system\bin\Debug\financial_system.exe
+F:\financial_system_project\financial_system\bin\Debug\financial_system.pdb
+F:\financial_system_project\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+F:\financial_system_project\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+F:\financial_system_project\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+F:\financial_system_project\financial_system\obj\Debug\financial_system.AddEmployee.resources
+F:\financial_system_project\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+F:\financial_system_project\financial_system\obj\Debug\financial_system.AddTraining.resources
+F:\financial_system_project\financial_system\obj\Debug\financial_system.Financial_Information.resources
+F:\financial_system_project\financial_system\obj\Debug\financial_system.Project_Description.resources
+F:\financial_system_project\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+F:\financial_system_project\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+F:\financial_system_project\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+F:\financial_system_project\financial_system\obj\Debug\financial_system.exe
+F:\financial_system_project\financial_system\obj\Debug\financial_system.pdb
+F:\financial_system_project\financial_system\obj\Debug\financial_system.addComingMoney.resources
+F:\financial_system_project\financial_system\bin\Debug\specified_money.mdf
+F:\financial_system_project\financial_system\bin\Debug\specified_money_log.ldf
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\Expenses_DB.mdf
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\Expenses_DB_log.ldf
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\FinancialProjectDatabase.mdf
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\FinancialProjectDatabase_log.ldf
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\ProjectPlaceDataBase.mdf
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\ProjectPlaceDataBase_log.ldf
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\specified_money.mdf
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\specified_money_log.ldf
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\financial_system.exe.config
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\financial_system.exe
+E:\programs\cmder\my_github\financial_system_project\financial_system\bin\Debug\financial_system.pdb
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.addComingMoney.resources
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.AddEmployee.resources
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.AddTraining.resources
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.Financial_Information.resources
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.Project_Description.resources
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.exe
+E:\programs\cmder\my_github\financial_system_project\financial_system\obj\Debug\financial_system.pdb
+C:\Users\20122\Downloads\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+C:\Users\20122\Downloads\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\20122\Downloads\financial_system\obj\Debug\financial_system.exe
+C:\Users\20122\Downloads\financial_system\obj\Debug\financial_system.pdb
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\Expenses_DB.mdf
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\Expenses_DB_log.ldf
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\FinancialProjectDatabase.mdf
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\FinancialProjectDatabase_log.ldf
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\ProjectPlaceDataBase.mdf
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\ProjectPlaceDataBase_log.ldf
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\specified_money.mdf
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\specified_money_log.ldf
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\financial_system.exe.config
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\financial_system.exe
+C:\Users\dell\Downloads\financial_system\financial_system\bin\Debug\financial_system.pdb
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.addComingMoney.resources
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.AddEmployee.resources
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.AddTraining.resources
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.Financial_Information.resources
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.Project_Description.resources
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.exe
+C:\Users\dell\Downloads\financial_system\financial_system\obj\Debug\financial_system.pdb
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.addComingMoney.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.AddEmployee.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.AddTraining.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.Financial_Information.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.Project_Description.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+E:\cse 3\second-semester\Software Engineering\project\financial_system\bin\Debug\specified_money.mdf
+E:\cse 3\second-semester\Software Engineering\project\financial_system\bin\Debug\specified_money_log.ldf
+E:\cse 3\second-semester\Software Engineering\project\financial_system\bin\Debug\financial_system.exe.config
+E:\cse 3\second-semester\Software Engineering\project\financial_system\bin\Debug\financial_system.exe
+E:\cse 3\second-semester\Software Engineering\project\financial_system\bin\Debug\financial_system.pdb
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.exe
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.pdb
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\Expenses_DB.mdf
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\Expenses_DB_log.ldf
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\FinancialProjectDatabase.mdf
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\FinancialProjectDatabase_log.ldf
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\ProjectPlaceDataBase.mdf
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\ProjectPlaceDataBase_log.ldf
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\specified_money.mdf
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\specified_money_log.ldf
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\financial_system.exe.config
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\financial_system.exe
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\bin\Debug\financial_system.pdb
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.addComingMoney.resources
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.AddEmployee.resources
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.AddTraining.resources
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.Financial_Information.resources
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.Project_Description.resources
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.exe
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.pdb
+C:\Users\mobi lap\OneDrive\Desktop\financial_system\financial_system\obj\Debug\financial_system.showMoney.resources
+E:\cse 3\second-semester\Software Engineering\project\financial_system\obj\Debug\financial_system.showMoney.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.addComingMoney.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.AddEmployee.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.AddTraining.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.Financial_Information.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.Project_Description.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.showMoney.resources
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.exe
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.pdb
+C:\Users\dell\Downloads\financial_system\bin\Debug\specified_money.mdf
+C:\Users\dell\Downloads\financial_system\bin\Debug\specified_money_log.ldf
+C:\Users\dell\Downloads\financial_system\bin\Debug\financial_system.exe.config
+C:\Users\dell\Downloads\financial_system\bin\Debug\financial_system.exe
+C:\Users\dell\Downloads\financial_system\bin\Debug\financial_system.pdb
+C:\Users\dell\Downloads\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+E:\فرقه الثالثه\financial_system\financial_system\bin\Debug\financial_system.exe.config
+E:\فرقه الثالثه\financial_system\financial_system\bin\Debug\financial_system.exe
+E:\فرقه الثالثه\financial_system\financial_system\bin\Debug\financial_system.pdb
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.addComingMoney.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.AddEmployee.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.AddTraining.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.Financial_Information.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.Project_Description.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.showMoney.resources
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.exe
+E:\فرقه الثالثه\financial_system\financial_system\obj\Debug\financial_system.pdb
+E:\فرقه الثالثه\financial_system\financial_system\bin\Debug\total_money.mdf
+E:\فرقه الثالثه\financial_system\financial_system\bin\Debug\total_money_log.ldf
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\bin\Debug\total_money.mdf
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\bin\Debug\total_money_log.ldf
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\bin\Debug\financial_system.exe.config
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\bin\Debug\financial_system.exe
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\bin\Debug\financial_system.pdb
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.addComingMoney.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.AddEmployee.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.AddTraining.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.Financial_Information.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.Project_Description.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.showMoney.resources
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.exe
+G:\works of college\thrid collega year\Software_Engineering\financial_system_project\financial_system\financial_system\financial_system\obj\Debug\financial_system.pdb
+D:\cse3\software\financial_system\financial_system\financial_system\bin\Debug\total_money.mdf
+D:\cse3\software\financial_system\financial_system\financial_system\bin\Debug\total_money_log.ldf
+D:\cse3\software\financial_system\financial_system\financial_system\bin\Debug\financial_system.exe.config
+D:\cse3\software\financial_system\financial_system\financial_system\bin\Debug\financial_system.exe
+D:\cse3\software\financial_system\financial_system\financial_system\bin\Debug\financial_system.pdb
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.addComingMoney.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.AddEmployee.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.AddTraining.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.Financial_Information.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.Project_Description.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.showMoney.resources
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.exe
+D:\cse3\software\financial_system\financial_system\financial_system\obj\Debug\financial_system.pdb
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\bin\Debug\total_money.mdf
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\bin\Debug\total_money_log.ldf
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\bin\Debug\financial_system.exe.config
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\bin\Debug\financial_system.exe
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\bin\Debug\financial_system.pdb
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.addComingMoney.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.AddEmployee.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.AddTraining.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.Financial_Information.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.Project_Description.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.showMoney.resources
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.exe
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.pdb
+C:\Users\NoteBook\Downloads\financial_system\financial_system\financial_system\obj\Debug\financial_system.editOfProjectPlace.resources
+E:\financial_system\financial_system\bin\Debug\total_money.mdf
+E:\financial_system\financial_system\bin\Debug\total_money_log.ldf
+E:\financial_system\financial_system\bin\Debug\financial_system.exe.config
+E:\financial_system\financial_system\bin\Debug\financial_system.exe
+E:\financial_system\financial_system\bin\Debug\financial_system.pdb
+E:\financial_system\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+E:\financial_system\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+E:\financial_system\financial_system\obj\Debug\financial_system.addComingMoney.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.AddEmployee.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.AddTraining.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.editOfProjectPlace.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.Financial_Information.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.Project_Description.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.showMoney.resources
+E:\financial_system\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+E:\financial_system\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+E:\financial_system\financial_system\obj\Debug\financial_system.exe
+E:\financial_system\financial_system\obj\Debug\financial_system.pdb
+C:\Users\20122\Downloads\financial_system\financial_system\bin\Debug\total_money.mdf
+C:\Users\20122\Downloads\financial_system\financial_system\bin\Debug\total_money_log.ldf
+C:\Users\20122\Downloads\financial_system\financial_system\bin\Debug\financial_system.exe.config
+C:\Users\20122\Downloads\financial_system\financial_system\bin\Debug\financial_system.exe
+C:\Users\20122\Downloads\financial_system\financial_system\bin\Debug\financial_system.pdb
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.addComingMoney.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.AddEmployee.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.AddTraining.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.editOfProjectPlace.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.Financial_Information.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.Project_Description.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.showMoney.resources
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.exe
+C:\Users\20122\Downloads\financial_system\financial_system\obj\Debug\financial_system.pdb
+E:\financial_system1\financial_system\financial_system\bin\Debug\total_money.mdf
+E:\financial_system1\financial_system\financial_system\bin\Debug\total_money_log.ldf
+E:\financial_system1\financial_system\financial_system\bin\Debug\financial_system.exe.config
+E:\financial_system1\financial_system\financial_system\bin\Debug\financial_system.exe
+E:\financial_system1\financial_system\financial_system\bin\Debug\financial_system.pdb
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.addComingMoney.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.AddEmployee.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.AddTraining.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.editOfProjectPlace.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.Financial_Information.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.Project_Description.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.showMoney.resources
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.exe
+E:\financial_system1\financial_system\financial_system\obj\Debug\financial_system.pdb
+C:\Users\NoteBook\Desktop\financial_system\financial_system\bin\Debug\total_money.mdf
+C:\Users\NoteBook\Desktop\financial_system\financial_system\bin\Debug\total_money_log.ldf
+C:\Users\NoteBook\Desktop\financial_system\financial_system\bin\Debug\financial_system.exe.config
+C:\Users\NoteBook\Desktop\financial_system\financial_system\bin\Debug\financial_system.exe
+C:\Users\NoteBook\Desktop\financial_system\financial_system\bin\Debug\financial_system.pdb
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.addComingMoney.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.AddEmployee.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.AddTraining.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.editOfProjectPlace.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.Financial_Information.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.Project_Description.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.showMoney.resources
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.exe
+C:\Users\NoteBook\Desktop\financial_system\financial_system\obj\Debug\financial_system.pdb
+D:\cse3\software\financial_system\bin\Debug\total_money.mdf
+D:\cse3\software\financial_system\bin\Debug\total_money_log.ldf
+D:\cse3\software\financial_system\bin\Debug\financial_system.exe.config
+D:\cse3\software\financial_system\bin\Debug\financial_system.exe
+D:\cse3\software\financial_system\bin\Debug\financial_system.pdb
+D:\cse3\software\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+D:\cse3\software\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+D:\cse3\software\financial_system\obj\Debug\financial_system.addComingMoney.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.AddEmployee.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.AddTraining.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.editOfProjectPlace.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.Financial_Information.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.Project_Description.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.showMoney.resources
+D:\cse3\software\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+D:\cse3\software\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+D:\cse3\software\financial_system\obj\Debug\financial_system.exe
+D:\cse3\software\financial_system\obj\Debug\financial_system.pdb
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\bin\Debug\total_money.mdf
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\bin\Debug\total_money_log.ldf
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\bin\Debug\financial_system.exe.config
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\bin\Debug\financial_system.exe
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\bin\Debug\financial_system.pdb
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.addComingMoney.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.AddEmployee.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.AddTraining.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.editOfProjectPlace.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.Financial_Information.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.Project_Description.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.showMoney.resources
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.exe
+G:\works of college\thrid collega year\Software_Engineering\final_project\finish\financial_system\obj\Debug\financial_system.pdb
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.addComingMoney.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.AddEmployee.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.AddTraining.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.editOfProjectPlace.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.Financial_Information.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.Project_Description.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\finish\financial_system\bin\Debug\total_money.mdf
+C:\Users\dell\Downloads\finish\financial_system\bin\Debug\total_money_log.ldf
+C:\Users\dell\Downloads\finish\financial_system\bin\Debug\financial_system.exe.config
+C:\Users\dell\Downloads\finish\financial_system\bin\Debug\financial_system.exe
+C:\Users\dell\Downloads\finish\financial_system\bin\Debug\financial_system.pdb
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.exe
+C:\Users\dell\Downloads\finish\financial_system\obj\Debug\financial_system.pdb
+G:\financial_system (17)\financial_system\bin\Debug\total_money.mdf
+G:\financial_system (17)\financial_system\bin\Debug\total_money_log.ldf
+G:\financial_system (17)\financial_system\bin\Debug\financial_system.exe.config
+G:\financial_system (17)\financial_system\bin\Debug\financial_system.exe
+G:\financial_system (17)\financial_system\bin\Debug\financial_system.pdb
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.csproj.AssemblyReference.cache
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.csproj.SuggestedBindingRedirects.cache
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.addComingMoney.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.addProjectPlace.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.AddEmployee.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.Add_Expenses_page.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.AddTraining.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.editOfProjectPlace.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.employee_salary_page.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.Financial_Information.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.informationOfProjectPlace.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.Project_Description.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.Properties.Resources.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.selectProjectPlace.resources
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.csproj.GenerateResource.cache
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.csproj.CoreCompileInputs.cache
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.exe
+G:\financial_system (17)\financial_system\obj\Debug\financial_system.pdb
