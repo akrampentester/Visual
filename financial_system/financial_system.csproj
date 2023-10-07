@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F629AF38-340B-4DDA-94E8-00DD5DFA3498}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>financial_system</RootNamespace>
+    <AssemblyName>financial_system</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addComingMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addComingMoney.designer.cs">
+      <DependentUpon>addComingMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addProjectPlace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addProjectPlace.Designer.cs">
+      <DependentUpon>addProjectPlace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Expenses_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Expenses_page.Designer.cs">
+      <DependentUpon>Add_Expenses_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Training.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Training.Designer.cs">
+      <DependentUpon>Add_Training.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Employee.Designer.cs">
+      <DependentUpon>Add_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editOfProjectPlace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editOfProjectPlace.Designer.cs">
+      <DependentUpon>editOfProjectPlace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee_salary_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee_salary_page.Designer.cs">
+      <DependentUpon>employee_salary_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Expenses_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Expenses_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialProjectDatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FinancialProjectDatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Financial_Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial_Information.Designer.cs">
+      <DependentUpon>Financial_Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="informationOfProjectPlace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="informationOfProjectPlace.Designer.cs">
+      <DependentUpon>informationOfProjectPlace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProjectPlaceDBDataSet.cs">
+      <DependentUpon>ProjectPlaceDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectPlaceDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProjectPlaceDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Project_Description.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project_Description.Designer.cs">
+      <DependentUpon>Project_Description.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="selectProjectPlace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectProjectPlace.Designer.cs">
+      <DependentUpon>selectProjectPlace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="total_moneyDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>total_moneyDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addComingMoney.resx">
+      <DependentUpon>addComingMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addProjectPlace.resx" />
+    <EmbeddedResource Include="Add_Employee.resx">
+      <DependentUpon>Add_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Expenses_page.resx">
+      <DependentUpon>Add_Expenses_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Training.resx">
+      <DependentUpon>Add_Training.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editOfProjectPlace.resx">
+      <DependentUpon>editOfProjectPlace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee_salary_page.resx">
+      <DependentUpon>employee_salary_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial_Information.resx">
+      <DependentUpon>Financial_Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="informationOfProjectPlace.resx">
+      <DependentUpon>informationOfProjectPlace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project_Description.resx">
+      <DependentUpon>Project_Description.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="selectProjectPlace.resx">
+      <DependentUpon>selectProjectPlace.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Expenses_DBDataSet.xsc">
+      <DependentUpon>Expenses_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Expenses_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Expenses_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Expenses_DBDataSet.xss">
+      <DependentUpon>Expenses_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FinancialProjectDatabaseDataSet.xsc">
+      <DependentUpon>FinancialProjectDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FinancialProjectDatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FinancialProjectDatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FinancialProjectDatabaseDataSet.xss">
+      <DependentUpon>FinancialProjectDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProjectPlaceDBDataSet.xsc">
+      <DependentUpon>ProjectPlaceDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProjectPlaceDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProjectPlaceDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProjectPlaceDBDataSet.xss">
+      <DependentUpon>ProjectPlaceDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="total_moneyDataSet.xsc">
+      <DependentUpon>total_moneyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="total_moneyDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>total_moneyDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="total_moneyDataSet.xss">
+      <DependentUpon>total_moneyDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Expenses_DB.mdf" />
+    <Content Include="Expenses_DB_log.ldf">
+      <DependentUpon>Expenses_DB.mdf</DependentUpon>
+    </Content>
+    <Content Include="FinancialProjectDatabase.mdf" />
+    <Content Include="FinancialProjectDatabase_log.ldf">
+      <DependentUpon>FinancialProjectDatabase.mdf</DependentUpon>
+    </Content>
+    <Content Include="ProjectPlaceDataBase.mdf" />
+    <Content Include="ProjectPlaceDataBase_log.ldf">
+      <DependentUpon>ProjectPlaceDataBase.mdf</DependentUpon>
+    </Content>
+    <Content Include="total_money.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="total_money_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>total_money.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
